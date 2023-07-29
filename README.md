@@ -20,3 +20,8 @@ Product and description from Instacart Market Basket Analysis (https://www.kaggl
 ### System Properties
 
 <img width="857" alt="image" src="https://github.com/Cenrax/FineTuningLlama2/assets/43017632/3edb129e-952e-4163-b74e-a6deba522815">
+
+#### RAM and GPU Usage from Google Colab
+
+<img width="284" alt="image" src="https://github.com/Cenrax/FineTuningLlama2/assets/43017632/ec0d0df5-0646-483d-979d-db1483755798">
+
